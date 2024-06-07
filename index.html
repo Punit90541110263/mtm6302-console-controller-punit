@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Console Controller</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Console Controller</h1>
+    <div>
+        <label for="background-color">Background Color:</label>
+        <input type="color" id="background-color" name="background-color">
+    </div>
+    <div>
+        <label for="font-size">Font Size:</label>
+        <input type="number" id="font-size" name="font-size" min="10" max="100" value="16">
+    </div>
+    <div>
+        <label for="text-content">Text Content:</label>
+        <input type="text" id="text-content" name="text-content">
+    </div>
+    <button id="apply-button">Apply Changes</button>
+    <p id="text-to-change">This text will change based on user input.</p>
+    <script src="script.js"></script>
+</body>
+</html>
