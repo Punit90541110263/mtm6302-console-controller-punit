@@ -23,4 +23,7 @@ step 6: have done changes in the text and added some css code
 step 7: the picture below show the output of the code 
 
 ![image](https://github.com/Punit90541110263/mtm6302-console-controller-punit/assets/133889264/94a229c3-693a-4634-ba0a-953b14b7ac47)
+final output 
+![image](https://github.com/user-attachments/assets/d7e8a1bc-ee5d-489b-8816-a73f606f902f)
+
 
